@@ -1,0 +1,22 @@
+{
+  "name": "minecraft-glitch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thefyrewire/minecraft.git"
+  },
+  "author": "thefyrewire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thefyrewire/minecraft/issues"
+  },
+  "homepage": "https://github.com/thefyrewire/minecraft#readme",
+  "dependencies": {
+    "minecraft-wrap": "^1.2.3"
+  }
+}
